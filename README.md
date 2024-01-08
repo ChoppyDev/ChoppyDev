@@ -1,14 +1,10 @@
 My name is Nicolas, and I'm a fullstack developer and open source enthusiast. 
 I work on web and mobile stacks.
-
 MacOS lover ❤️
-
-Contact : contact@choppytv.com
 
 🔭 I’m currently working on : 
 - A simple cooking laravel blog ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%)
 - Poker planning SaaS ◼︎◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (10%) paused
-- Developping my Php and laravel skills ◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎◼︎ (100%)
 
 Language skills : 
 

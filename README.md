@@ -3,9 +3,9 @@ I work on web and mobile stacks.
 MacOS lover ❤️
 
 🔭 I’m currently working on : 
-- A simple cooking laravel blog ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%)
+- A simple cooking laravel blog ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%) 
 - Poker planning SaaS ◼︎◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (10%) paused
-
+- Secret personnal project  ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%) wip
 Language skills : 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,php,ts,mysql)](https://skillicons.dev)

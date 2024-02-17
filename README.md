@@ -1,7 +1,7 @@
 # Hello World
 My name is Nicolas, and I'm a fullstack developer and open source enthusiast. 
 I work on web and mobile stacks.
-MacOS lover ❤️
+MacOS & linux lover ❤️
 
 ### 🔭 I’m currently working on : 
 - A simple cooking laravel blog ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%) 

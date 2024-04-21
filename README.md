@@ -11,9 +11,8 @@ I'm Nicolas, a full-stack developer with a passion for open source. I thrive in 
 
 ## 🔭 I’m currently working on :
 
-- **A Simple Cooking Laravel Blog** ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%)
-- **Poker Planning SaaS** ◼︎◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (10%) paused
-- **Secret Personal Project** ◼︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎◻︎ (5%) wip
+- Onestaff backend
+- Coaching website for my brother
 
 ## Language skills
 
